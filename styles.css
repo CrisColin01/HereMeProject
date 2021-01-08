@@ -1,0 +1,84 @@
+body{
+    background: #cccccc;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    color: #ff0000;
+}
+
+h2{
+    font-size: 35px;
+    font-family: 'Averia Libre', cursive;
+    color:#ff8000;
+}
+
+p{
+    color: #000080;
+}
+
+li{
+    
+}
+.aboutme:hover  {
+  background-color: #0000ff;
+    width: 150px;
+}
+
+.hobbies:hover  {
+  background-color: #0000ff;
+    width: 125px;
+}
+
+.ThingsILove:hover  {
+  background-color: #0000ff;
+    width: 200px;
+}
+
+
+.hobbie1{
+    color: #ffff00;
+}
+
+.hobbie2{
+    color: #008000;
+}
+
+.hobbie3{
+    color: #000080;
+}
+
+.hobbie4{
+    color: #800080;
+}
+
+img{
+    border-radius: 5px;
+    width: 200px;
+}
+
+.thingsilove1{
+    color: #ffff00;
+}
+
+.thingsilove2{
+    color: #008000;
+}
+
+.thingsilove3{
+    color: #000080;
+}
+
+.thingsilove4{
+    color: #800080;
+}
+
+.hobbie1, .hobbie2, .hobbie3, .hobbie4, .thingsilove1, .thingsilove2, .thingsilove3, .thingsilove4{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
